@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### COMMENTS
 
-![alt text](https://www.tekcrispy.com/wp-content/uploads/2017/12/bancos-imagenes-gratis.jpg 'title')
+![alt text](https://github.com/Osman8a/comments/blob/master/img/img.png 'title')
 
 ## Available Scripts
 
