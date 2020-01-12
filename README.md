@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### COMMENTS
+
+![alt text](https://www.tekcrispy.com/wp-content/uploads/2017/12/bancos-imagenes-gratis.jpg 'title')
+
 ## Available Scripts
 
 In the project directory, you can run:
